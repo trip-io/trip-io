@@ -1,6 +1,6 @@
 # tripio
 My personal repository
 - :smile: Greetings :)
-- :relieved: I'm a Future Web Developer
+- :relieved: I'm a future ios-developer
 - :pray: keep calm and study hard
-- 🌱 currently learning : react.js
+- 🌱 currently learning : swift
